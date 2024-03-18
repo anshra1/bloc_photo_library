@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936051926953",
+    "project_id": "bloc-gallary-library",
+    "storage_bucket": "bloc-gallary-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936051926953:android:b2d494a40f6f9a4fa506b8",
+        "android_client_info": {
+          "package_name": "com.example.bloc_photo_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKMFFf_KX5vJNbcRTSUcP6sEAyr6dckYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
